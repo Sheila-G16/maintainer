@@ -2,7 +2,7 @@
 
 ## Contributors
 
-- Master Maintainer
+- Master Maintainer SheilaG.
 -Contributor AldreiSierra
 -Contributor JobellePantoja
 
