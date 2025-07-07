@@ -4,3 +4,5 @@
 
 - Master Maintainer
 -Contributor AldreiSierra
+-Contributor JobellePantoja
+
